@@ -16,4 +16,5 @@
 5. Hverjir eru helstu kostir við að nota GIT?
  Helstu kostir GIT's eru að það er open source og frítt.
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+ Eftir að klára sérstakan part af verkefninu. t.d. Í þessu verkefni; eftir að klára spurningu.
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
