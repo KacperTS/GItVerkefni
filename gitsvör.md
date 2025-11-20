@@ -4,9 +4,9 @@
  * pwd - segir hvar þú ert í tölvunni núna
  * mkdir - býr til nýja möppu
 2. Hvað gera eftirfarandi Git skipanir?
- * git clone
- * git status
- * git diff
+ * git clone - gerir local afrit af git repository
+ * git status - sýnir þér stöðu á skrám í local afriti á git repository-inu, hverjum skrám var breytt, eytt eða bætt við.
+ * git diff - sýnir þér breytingarnar sem eru að verða í local afriti þinni.
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
  * git log
  * git checkout
